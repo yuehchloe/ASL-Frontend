@@ -1,0 +1,6 @@
+display: flex;
+width: 393px;
+height: 852px;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
